@@ -10,7 +10,7 @@ pinned: false
 ---
 
 # 🎧 Customer Service Agent
-
+> **Live Demo** [Click Here](https://huggingface.co/spaces/khaledxd/customer-service-agent)
 > **Built with** LangGraph · GPT-4o · MySQL · Qdrant · LlamaIndex · Streamlit
 
 ---
@@ -161,4 +161,4 @@ python main.py
 
 ## Author
 
-Built by Khaled · [LinkedIn](https://www.linkedin.com/in/khaled-abdulaziz/) · [GitHub](https://github.com/khaled-abdulaziz)
+Built by Khaled Abdulaziz · [LinkedIn](https://www.linkedin.com/in/khaled-abdulaziz/) · [Hugging Face](https://huggingface.co/khaledxd)
