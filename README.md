@@ -13,7 +13,7 @@ pinned: false
 > **Live Demo** [Click Here](https://huggingface.co/spaces/khaledxd/customer-service-agent)
 > **Built with** LangGraph · GPT-4o · MySQL · Qdrant · LlamaIndex · Streamlit
 
----
+----
 
 ## What is this?
 
