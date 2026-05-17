@@ -122,7 +122,7 @@ docker run -p 6333:6333 -v qdrant_storage:/qdrant/storage qdrant/qdrant
 
 ### 6. Run
 ```bash
-# Streamlit UI
+# Streamlit UI.
 streamlit run app.py
 
 # Or CLI for quick testing
